@@ -1,0 +1,41 @@
+Başla
+Telefonu bul
+Eline al
+Kilidini aç
+Bildirim çubuğunu aç
+	Bildirim varsa yanıtla
+Açık uygulamaları kapat
+Game Launcher’a gir
+İlk sıradaki oyuna gir
+    Oyunlarda ödülleri al
+        İşin bitince oyundan çık
+Sıradaki oyunda geç
+Açık uygulamaları kapat
+İletişim klasörünü aç
+Reddit uygulamasına tıkla
+Uygulamadaki bildirimleri kontrol et
+Ana sayfaya dön
+Postları incele
+Beğendiklerine upvote ver
+    Beğenmediysen downvote ver
+Sağa kaydır
+Sayfadaki postları incele
+Beğendiklerine upvote ver
+    Beğenmediysen downvote ver
+Uygulamadan çık
+Açık uygulamaları kapat
+İletişim klasörünü aç
+Twitter uygulamasına tıkla
+Ana sayfayı yenile
+Twitleri incele
+Alttaki Büyüteç simgesine tıkla
+Sayfadaki başlıkları incele
+    İlgi çekici olanlara tıkla
+Açılan sayfayı incele
+    Yeterli kadar incelediysen geri çık
+Sonraki başlığa geç
+Uygulamadan çık
+Açık uygulamaları kapat
+Ekranı kilitle
+Telefonu bulmak istediğin bi yere koy
+Bitir
