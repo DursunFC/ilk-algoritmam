@@ -1,0 +1,60 @@
+Başla
+Uyan
+Kalkana kadar güç topla
+Bildirimleri kontrol et 
+    Var ise cevapla
+Lavaboya git
+Yatağa geri dön
+Uykunun açılmasını bekle
+Yataktan kalk 
+	Oda havasız ise camı aç
+Çantanı al
+Yemekhaneye in
+Kahvaltı sırasına gir 
+Kahvaltını al
+Oturacak yer bul
+Otur
+Yemeğini ye
+Yemeğin bitince kal
+Tepsini boşalt
+Odana geri dön
+Gün içinde yapman gerekenleri kontrol et
+Okul zamanına kadar yapacak aktivite bul
+Okul zamanından 90 dk önce okul için hazırlan
+Okul zamanından 70 dk önce otobüs durağına git
+Otobüs gelince bin
+Mühendislik fakültesine gelince in
+Arkadaşını ara yemeğe gelecek mi diye sor
+	Gelecek ise beraber git
+	Gelmeyecek ise yalnız git
+Yemek için sıraya gir 
+Yemek al
+Oturacak yer bul
+Otur
+Bitirince kal
+Tepsini boşalt
+Sınıfına çık
+Yer tut
+Dersi beklerken arkadaşlarınla konuş
+Dersten çık
+	Daha dersin yoksa dışarı çık
+	Varsa 
+		Farklı sınıfta ise 3 önceki adıma dön
+		Aynı sınıfta ise 1 önceki adıma dön
+Arkadaşlarınla vedalaş
+Otobüs durağına git
+Bekle
+Otobüse bin
+Yurda gelince in
+İçeri gir
+Yemekhaneye git
+Yemek sırasına gir
+Yemek al
+Oturacak yer bul
+Otur
+Yemeğini ye 
+Tepsini boşalt
+Odana çık
+Yatmaya hazırlık yap
+Uyu
+Bitir
